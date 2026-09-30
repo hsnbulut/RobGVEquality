@@ -1,0 +1,7 @@
+"data","method","statistic","p_value","decision_alpha_005","mcd_successful","mcd_failed"
+"Original BM-BF-OM","LRT",2.48812903208218,0.288210398263635,FALSE,NA,NA
+"Original BM-BF-OM","BMLRT",2.69861240870526,0.259420182817744,FALSE,NA,NA
+"Original BM-BF-OM","MCD-permutation",2.9260778839712,0.4625,FALSE,1999,0
+"10% rowwise-contaminated BM-BF-OM","LRT",35.414226906426,2.0412600540727e-08,TRUE,NA,NA
+"10% rowwise-contaminated BM-BF-OM","BMLRT",38.410094871329,4.56408657662453e-09,TRUE,NA,NA
+"10% rowwise-contaminated BM-BF-OM","MCD-permutation",2.73206905329772,0.4765,FALSE,1999,0

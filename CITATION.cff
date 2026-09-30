@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use the data, code, or reproducibility materials in this repository, please cite the related manuscript."
+title: "A Robust Permutation Test for Equality of Generalized Variances Based on MCD Scatter Estimation"
+type: article
+authors:
+  - family-names: Bulut
+    given-names: Hasan
+    affiliation: "Ondokuz Mayis University, Türkiye"
+  - family-names: Gürlen
+    given-names: Ülkü
+    affiliation: "Sinop University, Türkiye"
+    orcid: "https://orcid.org/0000-0003-2340-6436"
+date-released: 2026-09-30
+version: "1.0.0"
