@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Minimal Dataset and Reproducibility Files
 
 This archive supports the results reported in the manuscript
